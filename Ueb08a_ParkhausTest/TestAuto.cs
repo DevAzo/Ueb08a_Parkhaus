@@ -10,5 +10,11 @@ namespace Ueb08a_ParkhausTest
         {
             var auto = new Auto();
         }
+
+        [TestMethod]
+        public void Test_Auto_Konstruktor_mit_Werten()
+        {
+            var auto = new Auto() { Kennzeichen = 607609, Name="Opel"};
+        }
     }
 }
