@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ueb08a_Parkhaus", "Ueb08a_Parkhaus\Ueb08a_Parkhaus.csproj", "{697821DF-7DCB-4683-B340-60682E5A3912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ueb08a_ParkhausTest", "Ueb08a_ParkhausTest\Ueb08a_ParkhausTest.csproj", "{8BF1985E-46B5-44C9-8278-A62BFB0AB737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697821DF-7DCB-4683-B340-60682E5A3912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697821DF-7DCB-4683-B340-60682E5A3912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697821DF-7DCB-4683-B340-60682E5A3912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697821DF-7DCB-4683-B340-60682E5A3912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF1985E-46B5-44C9-8278-A62BFB0AB737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF1985E-46B5-44C9-8278-A62BFB0AB737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF1985E-46B5-44C9-8278-A62BFB0AB737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF1985E-46B5-44C9-8278-A62BFB0AB737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3092524C-B222-4A3D-BECF-1A076527F334}
+	EndGlobalSection
+EndGlobal
